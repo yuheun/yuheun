@@ -1,4 +1,3 @@
-# **My project Plan (Level 1 Heading)**
 # My project Plan (Level 1 Heading)
 
 ***Note***: This document is written merely as an illustrative example, and does not provide any working guide to an actual project.
@@ -21,6 +20,7 @@ For example, the objects in the following images were detected using [mmdetectio
 - package manager
 
 ### Installation
+### **Installation**
 In a bash terminal, run the following commands (*Do NOT actually run these commands in your computer*):
 ```sh
 $ sudo apt update
