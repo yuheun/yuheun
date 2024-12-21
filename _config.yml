@@ -6,6 +6,10 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+
 # Basic Site Settings
 locale                   : "ko_KR.UTF-8"
 title                    : "Yuhuen's Homepage"
