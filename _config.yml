@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Yuhuen Kim"
 description              : &description "personal description"
 url                      : "https://yuhuen.github.io"
-baseurl                  : "https://velog.io/@yuyuhe/posts" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuhuen/yuheun"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
